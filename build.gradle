@@ -16,6 +16,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
         implementation 'guru.springframework:chuck-norris-for-actuator:2.4.0'
+        implementation 'gradle.plugin.com.intershop.gradle.publish:gradle-release-plugins:5.0.1'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
