@@ -1,2 +1,8 @@
 com/swaminc/joke/JokeApplication.java
  com.swaminc.joke.JokeApplication
+com/swaminc/joke/service/QuoteService.java
+ com.swaminc.joke.service.QuoteService
+com/swaminc/joke/service/NorrisQuotesService.java
+ com.swaminc.joke.service.NorrisQuotesService
+com/swaminc/joke/controller/NorrisQuotesController.java
+ com.swaminc.joke.controller.NorrisQuotesController
